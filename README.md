@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Bhekisile Jozi 
 
-<!--
+- I'm currently working on my JavaScript project
+- tech stack: css https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+- HTML https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+- JavaScript https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+<!-- 
 ** ✨Bhekisile✨** is my name.
 
 Here are some ideas to get you started:
