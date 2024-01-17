@@ -13,6 +13,8 @@
              <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
              <img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>
              <img src='https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red'>
+             <img src='https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D'>
+             <img src='https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000'>
              
 - I'm looking forward to learning about Ruby on Rails
 - 📫 How to reach me: bhekisilejozi@gmail.com
